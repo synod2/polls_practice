@@ -1,4 +1,4 @@
-#custum runner setting for django2 server on cloud 9 IDE 
+//custum runner setting for django2 server on cloud 9 IDE 
 {
     "cmd": [
         "bash",
